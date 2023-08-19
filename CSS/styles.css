@@ -1,0 +1,64 @@
+/*Backgorund del sectionr*/
+header{
+    background-color: #E6E6E6;
+    height: 200px;
+}
+/*centrar foto Batman*/
+.logo{
+    text-align: center;
+    padding: 20px;
+}
+/*Blackground section 2 header*/
+.blackground-section-titulo{
+    background-color:#C4C4C4;
+    height: 45px;
+    padding: 5px;
+}
+/*título*/
+h1.título{
+    color: #005677;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    text-align: center;
+    letter-spacing: 4px;
+    margin-top: 5px;
+}
+/*Espacio blanco*/
+section.espacio-blanco{
+    background-color: white;
+    height: 100px;
+}
+/*Datos personales*/
+h2{
+    color: #005677;
+    background-color: #C4C4C4;
+    letter-spacing: 4px;
+    font-weight: 700;
+}
+ul.negrita-datos{
+    font-weight: 700;
+    font-style: italic;
+    line-height: 25px;
+}
+span.normal{
+    font-weight: normal;
+    font-style: normal;
+}
+/*Formación académica*/
+ul.negrita-formacion{
+    font-weight: 700;
+    line-height: 18px;
+}
+span.derecha{
+    margin: 37px;
+    font-weight: normal;height: ;
+}
+h3.final{
+    background-color: #005677;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 5px;
+    text-align: center;
+    font-size: 18px;
+}
